@@ -1,6 +1,8 @@
 // decode.cpp : Defines the class behaviors for the application.
 //
-
+/***********************************************************
+*This is a test
+***********************************************************/
 #include "stdafx.h"
 #include "decode.h"
 #include "decodeDlg.h"
